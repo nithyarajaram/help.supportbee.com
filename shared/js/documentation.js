@@ -44,6 +44,7 @@ $(function() {
   // Accordion style list. Expanded items
   // collapse when new items are clicked.
   $('#js-sidebar .js-accordion-list .js-topic h3 a').click(function(){
+    console.log('documentation');
     var clickedTopic = $(this).parents('.js-topic'),
         topicGuides = clickedTopic.find('.js-guides li')
     

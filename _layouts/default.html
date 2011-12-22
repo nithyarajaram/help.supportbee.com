@@ -1,13 +1,13 @@
 ---
 sidebar_cats:
-- company_setup
-- email_setup
+- company.setup
+- email.setup
 - users
 - groups
-- handling_tickets
+- handling.tickets
 - labels
 - filters
-- account_settings
+- account.settings
 - billing
 ---
 
@@ -36,7 +36,7 @@ sidebar_cats:
           <div id="nav" class="columns eight">
             <ul class="nav right">
               <li><a data-controls-modal="sb-overlay">Contact Support</a></li>
-              <li><a href="https://github.com/">Back to SupportBee</a></li>
+              <li><a href="http://supportbee.com/">Back to SupportBee</a></li>
             </ul>
           </div>
         </div>
@@ -59,7 +59,7 @@ sidebar_cats:
                 {% if cat == 'github_resources' %}
                   <h3><a href="#">GitHub Resources</a></h3>
                 {% else %}
-                  <h3><a href="#">{{ cat | replace:'_',' ' | capitalize }}</a></h3>
+                  <h3><a href="#">{{ cat | replace:'.',' ' | capitalize }}</a></h3>
                 {% endif %}
                 <ul class="js-guides">
                   {% for post in site.posts reversed %}{% if post.categories contains cat %}

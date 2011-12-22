@@ -18,3 +18,12 @@ p {
   font-size: 1.6rem;
   line-height: 2.0rem;
 }
+
+ul.js-guides {
+  margin-left: 10px;
+}
+
+
+ul.js-guides li a, ul.js-guides li span{
+  font-size: 1.5rem;
+}

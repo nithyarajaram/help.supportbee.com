@@ -1,6 +1,0 @@
----
-layout: redirect
-title: Forking a project
-description: How to fork a project, submit changes, and pull from other repos in the fork network
-redirect_to: /fork-a-repo
----

@@ -1,5 +1,0 @@
----
-layout: redirect
-title: Capistrano
-redirect_to: /deploy-with-capistrano
----

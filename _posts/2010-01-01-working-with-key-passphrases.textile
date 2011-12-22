@@ -1,5 +1,0 @@
----
-layout: redirect
-title: Working with SSH key passphrases
-redirect_to: /ssh-key-passphrases
----

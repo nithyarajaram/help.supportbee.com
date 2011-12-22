@@ -1,5 +1,0 @@
----
-layout: redirect
-title: Troubleshooting SSH issues
-redirect_to: /ssh-issues
----

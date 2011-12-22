@@ -25,4 +25,4 @@ When you click on ‘Add user’ we will send an invitation to the email id that
 
 What is the difference between Agents and Admins?
 -------------------------------------------------
-Checkout the entry on understanding [user permissions
+Checkout the entry on understanding [user permissions](/user-permissions)

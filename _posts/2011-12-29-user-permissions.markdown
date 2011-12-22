@@ -1,28 +1,29 @@
 ---
 layout: default
-title: Adding Users 
-description: How do I add agents and admins to the system
+title: Understanding User Permissions 
+description: What are the different user permissions in SupportBee
 categories: users
 ---
 
-How many users can I add to SupportBee?
----------------------------------------
-There’s no restriction on the number of users that you can add to your Helpdesk. In-fact, your billing has no bearing on the number of users added. We recommend that you add everyone in your team to SupportBee.
+What is the difference between an agent and an admin?
+-----------------------------------------------------
 
+An admin has a few privileges that an agent does not have. Those include:
 
-How do I add users to SupportBee?
----------------------------------
-If you are an admin, you can add more users by following these steps
+1. Ability to alter Company settings
+2. Ability to add users
+3. Ability to change the role of a user
+4. Ability to create and edit labels
+5. Ability to create groups
+6. Ability to add users to groups
 
+How do I change the role of a user?
+-----------------------------------
+
+The permission to change the role of a user is restricted to the admins. If you are an admin, you can change the role of a user by following the steps below.
 
 1. Click on the Admin link in the top right corner of the main page after logging in.
-2. Click the ‘Users’ tab
-3. Click the ‘Add a new user’ button
-4. Enter the email id of the user you want to add
-5. Update the user details and Click on ‘Add User’
-
-When you click on ‘Add user’ we will send an invitation to the email id that you provided. Once the user accepts the invitation by clicking on the link provided in the mail, he/she will be able to access and reply to the support tickets.
-
-What is the difference between Agents and Admins?
--------------------------------------------------
-Checkout the entry on understanding [user permissions](/user-permissions)
+2. Choose the ‘Users’ tab
+3. Click on ‘Edit’ for the user whose role you want to change
+4. Choose the appropriate role
+5. Click on ‘Update User’

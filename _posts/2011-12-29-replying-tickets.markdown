@@ -16,7 +16,7 @@ How can we make sure, two of us don’t reply to the same ticket?
 When you access a ticket which is already opened by another user, you will see a red alert in the bottom right corner of the ticket page that somebody else is also viewing it. This is a cue for you to move on to the next ticket because it is already being taken care of.
 
 
-A ticket that I replied to disappeared off the screen. Where did it go?
+A ticket that I replied to disappeared off the listing. Where did it go?
 -----------------------------------------------------------------------
 
 Once you reply to a ticket, it will automatically go off the unanswered section for you to focus your attention on the rest. In SupportBee, there is no need for you to explicitly close a ticket. As you reply, the list shrinks and just burns the inbox. If you need to access a ticket in-spite of having replied to it, you can find it in the ‘All Tickets’ section (in the left navigation menu). Or you can [star it](/star-a-ticket) before you go back to the list to reply to the other tickets.

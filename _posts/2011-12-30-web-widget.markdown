@@ -20,13 +20,10 @@ How do I hide the 'Contact Support' tab and load the widget on clicking a link?
 
 If you don't want to use our 'Contact Support' tab, you have to edit the code and change position to none,
 
-
-{% highlight javascript}
-position: none
-{endhightlight %}
+_position: none_
 
 Then, on your webpage, put up a link (with the text that you want)
 
-{% highlight html}
-<a data-controls-modal='sb-overlay'>Contact Us</a>
-{endhightlight %}
+_&lt;a data-controls-modal='sb-overlay'&gt;Contact Us&lt;/a&gt;_
+
+The data-controls-modal property bind the form to this link.

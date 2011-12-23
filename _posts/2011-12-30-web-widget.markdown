@@ -26,4 +26,4 @@ Then, on your webpage, put up a link (with the text that you want)
 
 _&lt;a data-controls-modal='sb-overlay'&gt;Contact Us&lt;/a&gt;_
 
-The data-controls-modal property bind the form to this link.
+The data-controls-modal property binds the form to this link.

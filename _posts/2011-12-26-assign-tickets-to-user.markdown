@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assign tickets to a user
+title: Assign tickets to a User
 description: How do assign tickets to a User
 categories: handling.tickets
 ---

@@ -21,3 +21,8 @@ There are few situations where you may want to star a ticket
 
 1. Once you reply to a ticket, it disappears off the Unanswered section. If you still want to follow it up, you can star it.
 2. If you [assign a ticket](/assigning-a-ticket) to someone else but still want to follow it up, you should star it
+
+If I star a ticket, is it starred for everybody else too?
+---------------------------------------------------------
+
+No, starring is a personal option. A ticket starred by you remains starred only for you  and shows up in your ‘My Tickets’ section. 

@@ -32,4 +32,4 @@ What if a ticket does not need a reply?
 There are two cases when you don't need to reply to a ticket
 
 1. The ticket is spam, in which case you can just mark it as spam.
-2. It is a customer reply or a thank you ticket or a duplicate ticket that you don't want to reply to. In this case, you can [Archive](/archive-a-ticket) it
+2. It is a customer reply or a thank you ticket or a duplicate ticket that you don't want to reply to. In this case, you can [Archive](/archiving-a-ticket) it

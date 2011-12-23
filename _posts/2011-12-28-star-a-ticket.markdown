@@ -14,7 +14,7 @@ Two things happen when you star a ticekt
 2. If there is a new customer reply for a starred ticket, you get an email notification. However, you can [change your notification preferences](/notification-settings/).
 
 
-Why do I need to star a ticket?
+When should I star a ticket?
 -------------------------------
 
 There are few situations where you may want to star a ticket

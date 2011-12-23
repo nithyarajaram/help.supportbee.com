@@ -62,7 +62,7 @@ sidebar_cats:
                   <h3><a href="#">{{ cat | replace:'.',' ' | capitalize }}</a></h3>
                 {% endif %}
                 <ul class="js-guides">
-                  {% for post in site.posts reversed %}{% if post.categories contains cat %}
+                  {% for post in site.posts %}{% if post.categories contains cat %}
                     {% if page.title == post.title %}
                       <li class="disable"><span>{{ page.title }}</span></li>
                     {% else %}

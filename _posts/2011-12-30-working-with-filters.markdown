@@ -30,7 +30,7 @@ What are the different conditions that I can match?
 ---------------------------------------------------
 
 *   ***From Email*** Matches the sender of the ticket. Enter the name or email address of a customer. You can use this to identify tickets from a particular customer.
-*   ***Delivered-To*** Matches the address that the ticket was delivered to. If you are forwarding from different inboxes, you can use this filter to route tickets to different groups or adding a label based on the mailbox the ticket was delivered to. Currently the 'Preview Matches' don't show tickets submitted through the widget or API. We are working on it. 
+*   ***Delivered-To*** Matches the address that the ticket was delivered to. If you are forwarding from different inboxes, you can use this filter to route tickets to different groups or adding a label based on the mailbox the ticket was delivered to. 
 *   ***Subject with keywords*** Matches the subject. If you put more than one word, all of them will have to match for filter to be applies. The matching is case insensitive. 
 *   ***Body with keywords*** Matches the body. If you put more than one word, all of them will have to match for filter to be applies. The matching is case insensitive.
 

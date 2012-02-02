@@ -9,7 +9,7 @@ What are snippets?
 ----------------------------------
 
 When you have a reasonably large ticket volume, you will often be
-repeating your work by answering the same questions. To avoid repitition, you can save your answer as a snippet which can be used in just a single click in your replies. 
+repeating your work by answering the same questions. To avoid repetition, you can save your answer as a snippet which can be used in just a single click in your replies. 
 
 Sinppets can also be used to save blocks of text within an answer that gets repeated. For example, if you have a standard intorduction and conclusion for all your replies you can save them as snippets to be used in all your replies.
 
@@ -35,7 +35,15 @@ right corner of the reply box. You can either search for a snippet using
 their names/tags or choose one from the drop down list.
 
 
+Is there a limit on the number of characters for a snippet?
+-----------------------------------------------------------
+
+No. There's no limit. You snippet can be as small as just a url or as
+big as a full reply.
+
+
 Can I use multiple snippets in the same reply?
 ----------------------------------------------
 
-Yes, you can.
+Yes, you can and that's exactly what makes it wonderful! Your reply can
+pretty much be a mix and match of different snippets.

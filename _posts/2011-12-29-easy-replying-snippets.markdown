@@ -30,20 +30,21 @@ If you are an admin, you can add a snippet by following the steps below
 How do I use snippets in my replies?
 ---------------------------------------------------------
 
-To add snippets to your replies, use the 'Search and insert snippets' option on the top
-right corner of the reply box. You can either search for a snippet using
-their names/tags or choose one from the drop down list.
+To add snippets to your replies,
 
+1. Click on the 'Search and insert snippets' option on the top right corner of the reply box.
+2. search for a snippet using its name/tag or choose one from the drop down list
+3. Click on the relevant option or press Enter to add it to your reply box
 
 Is there a limit on the number of characters for a snippet?
 -----------------------------------------------------------
 
-No. There's no limit. You snippet can be as small as just a url or as
-big as a full reply.
+No. There's no limit. Your snippet can be as small as just a url or as
+big as a full blown reply.
 
 
 Can I use multiple snippets in the same reply?
 ----------------------------------------------
 
-Yes, you can and that's exactly what makes it wonderful! Your reply can
+Yes, you can and that's exactly what makes it awesome! Your reply can
 pretty much be a mix and match of different snippets.

@@ -12,7 +12,7 @@ There’s no restriction on the number of users that you can add to your Helpdes
 
 How do I add users to SupportBee?
 ---------------------------------
-If you are an admin, you can add more users by following these steps
+If you are an admin, you can add more users by following the steps below
 
 
 1. Click on the Admin link in the top right corner of the main page after logging in.
